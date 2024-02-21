@@ -18,6 +18,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mirza-awaise-baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-haider-a03b19251" height="30" width="40" /></a>
+<a href="https://twitter.com/AwaiseBaig313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali7815502" height="30" width="40" /></a>
 <a href="https://instagram.com/awaise__ayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.7haider" height="30" width="40" /></a>
 
 </p>
