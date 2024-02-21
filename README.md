@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali7haider&label=Profile%20views&color=0e75b6&style=flat" alt="ali7haider" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali7haider" alt="ali7haider" /></a> </p> -->
-- 🌱 I’m currently learning **Computer Vision and Image Processing & Enterprise Application Development**
+- 🌱 I’m currently learning **Full Stack Python Development**
 
 
 - 📫 How to reach me **mirzawaisebaig313@gmail.com**
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ali7815502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali7815502" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-haider-a03b19251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-haider-a03b19251" height="30" width="40" /></a>
+
+<a href="(https://www.linkedin.com/in/mirza-awaise-baig/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-haider-a03b19251" height="30" width="40" /></a>
 <a href="https://kaggle.com/alihaider28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alihaider28" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100015159513337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100015159513337" height="30" width="40" /></a>
 <a href="https://instagram.com/awaise__ayyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.7haider" height="30" width="40" /></a>
