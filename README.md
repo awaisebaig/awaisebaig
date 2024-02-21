@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="(https://www.linkedin.com/in/mirza-awaise-baig/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-haider-a03b19251" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mirza-awaise-baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-haider-a03b19251" height="30" width="40" /></a>
 <a href="https://kaggle.com/alihaider28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alihaider28" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100015159513337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100015159513337" height="30" width="40" /></a>
 <a href="https://instagram.com/awaise__ayyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.7haider" height="30" width="40" /></a>
