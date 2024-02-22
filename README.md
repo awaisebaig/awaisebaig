@@ -1,4 +1,4 @@
-![logo](https://github.com/ali7haider/ali7haider/blob/main/lap.gif)
+![logo](lap.gif)
 
 <h1 align="center">Hi 👋, I'm Mirza Awaise Baig</h1>
 <h3 align="center">A passionate Front-End Developer.</h3>
