@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Front-End Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali7haider&label=Profile%20views&color=0e75b6&style=flat" alt="ali7haider" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisebaig&label=Profile%20views&color=0e75b6&style=flat" alt="awaisebaig" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali7haider" alt="ali7haider" /></a> </p> -->
 - 🌱 I’m currently learning **Full Stack Python Development**
